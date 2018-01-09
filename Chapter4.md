@@ -19,5 +19,3 @@
 **Jerônymo Monteiro**: O Irmão do Diabo; Três Meses no Século 81; A Cidade Perdida; Fuga para Parte Alguma; Os Visitantes do Espaço; Tangentes da Realidade.
 
 **André Carneiro**: Diário da Nave Perdida; O Homem que Adivinhava; Espaço Pleno; Piscina Livre; Confissões do Inexplicável; Amorquia; Pássaros Florescem.
-
-**Bráulio Tavares**: Breves Histórias do Tempo; O Espelho-Relâmpago no Oco do Ciclone; Expedição às Profundezas do Oceano; Os Ishtarianos Estão Entre Nós; Malassombrado.
