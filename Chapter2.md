@@ -34,6 +34,10 @@ Thomas Anderson é um jovem programador que vive tendo pesadelos horríveis nos 
 
 ![Matrix](/img/matrix.jpg)
 
+### Blade Runner
+
+O filme se passa em novembro de 2019 numa decadente e futurista cidade de Los Angeles decaída com a poluição, o consumismo exacerbado e a consequente busca de novas formas de colonização em outros planetas, para a qual as pessoas são convidadas a aventurarem-se em face do colapso da civilização humana, tanto material quanto moralmente.
+
 ### Blade Runner 2049
 
 Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.
