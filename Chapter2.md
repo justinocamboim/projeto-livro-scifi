@@ -41,3 +41,7 @@ O filme se passa em novembro de 2019 numa decadente e futurista cidade de Los An
 ### Blade Runner 2049
 
 Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.
+
+### Project Power
+
+Em Power, a notícia de que uma nova pílula capaz de liberar superpotências para cada um que a experimentar começa a se espalhar nas ruas de Nova Orleans. Poderes como pele à prova de balas, super força e invisibilidade apareceram em usuários, porém, é impossível saber o vai realmente acontecer até tomá-la. Mas tudo muda quando a pílula acaba aumentando o crime na cidade, fazendo com que o policial local (Joseph Gordon-Levitt) se una a um traficante adolescente (Dominique Fishback) e um ex-soldado com sede de vingança (Jamie Foxx) para combater o poder com poder, chegando na origem da pílula.
