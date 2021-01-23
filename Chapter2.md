@@ -33,3 +33,7 @@ Você já teve alguma obsessão? Pois um chefe de família dos Estados Unidos co
 Thomas Anderson é um jovem programador que vive tendo pesadelos horríveis nos quais se vê conectado a cabos em computadores enormes do futuro. Ele sempre acorda na hora em que eletrodos vão penetrar seu cérebro e, na medida em que o sonho se repete, ele começa a questionar o que é real. Ele descobre que é vítima da Matrix, um sistema de inteligência artificial que manipula o mundo real para produzir energia. Será possível se livrar disso?
 
 ![Matrix](/img/matrix.jpg)
+
+### Blade Runner
+
+O filme se passa em novembro de 2019 numa decadente e futurista cidade de Los Angeles decaída com a poluição, o consumismo exacerbado e a consequente busca de novas formas de colonização em outros planetas, para a qual as pessoas são convidadas a aventurarem-se em face do colapso da civilização humana, tanto material quanto moralmente.
