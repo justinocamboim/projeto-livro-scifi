@@ -46,6 +46,11 @@ Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da
 
 Em Power, a notícia de que uma nova pílula capaz de liberar superpotências para cada um que a experimentar começa a se espalhar nas ruas de Nova Orleans. Poderes como pele à prova de balas, super força e invisibilidade apareceram em usuários, porém, é impossível saber o vai realmente acontecer até tomá-la. Mas tudo muda quando a pílula acaba aumentando o crime na cidade, fazendo com que o policial local (Joseph Gordon-Levitt) se una a um traficante adolescente (Dominique Fishback) e um ex-soldado com sede de vingança (Jamie Foxx) para combater o poder com poder, chegando na origem da pílula.
 
+### Projeto Gemini
+
+Projeto Gemini é uma inovadora história de ação e suspense estrelando Will Smith como Henry Brogan, um assassino de elite, que de repente se vê perseguido por um misterioso jovem agente que parece prever todos os seus movimentos.
+
+
 ### Bloodshot
 
 Depois de ser morto em combate, o soldado Ray Garrison é trazido de volta à vida com um exército de nanotecnologia em suas veias e poderes sobre-humanos: uma incrível força e a habilidade de se curar instantaneamente. Sem memória, ele está decidido a descobrir a verdade sobre quem realmente é.
