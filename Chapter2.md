@@ -50,3 +50,7 @@ Em Power, a notícia de que uma nova pílula capaz de liberar superpotências pa
 
 Projeto Gemini é uma inovadora história de ação e suspense estrelando Will Smith como Henry Brogan, um assassino de elite, que de repente se vê perseguido por um misterioso jovem agente que parece prever todos os seus movimentos.
 
+
+### Bloodshot
+
+Depois de ser morto em combate, o soldado Ray Garrison é trazido de volta à vida com um exército de nanotecnologia em suas veias e poderes sobre-humanos: uma incrível força e a habilidade de se curar instantaneamente. Sem memória, ele está decidido a descobrir a verdade sobre quem realmente é.
