@@ -33,3 +33,7 @@ Você já teve alguma obsessão? Pois um chefe de família dos Estados Unidos co
 Thomas Anderson é um jovem programador que vive tendo pesadelos horríveis nos quais se vê conectado a cabos em computadores enormes do futuro. Ele sempre acorda na hora em que eletrodos vão penetrar seu cérebro e, na medida em que o sonho se repete, ele começa a questionar o que é real. Ele descobre que é vítima da Matrix, um sistema de inteligência artificial que manipula o mundo real para produzir energia. Será possível se livrar disso?
 
 ![Matrix](/img/matrix.jpg)
+
+### Blade Runner 2049
+
+Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.
